@@ -1,0 +1,7 @@
+
+streamlit
+pytube
+openai-whisper
+moviepy
+torch
+transformers
